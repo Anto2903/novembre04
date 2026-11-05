@@ -1,1 +1,1 @@
-# novembre04
+# per aprire il file scaricato, associa i file HTML al tuo browser
